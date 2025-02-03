@@ -1,4 +1,4 @@
-# Maharashtra-Rera-Scraper:
+# Maharashtra-Rera_Scraper:
 
 This project automated data extraction from the Maharashtra RERA website using Python
 Selenium, and BeautifulSoup. It scraped project details like names, developers, and locations,
